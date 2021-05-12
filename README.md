@@ -1,5 +1,6 @@
 # Salam Mən Hüsnü👨🏻
-![Profile İzlənməsi](https://gpvc.arturio.dev/quiec)
+![Profile views](https://gpvc.arturio.dev/[sirincay])
+
   <p><a href="https://t.me/sirincayboss"><img src="https://img.shields.io/badge/-@Husnu-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/sirincayboss""></a></p>
 <img align="right" width=480 height=270 src="src/devs.gif" />
 <li>🎓Təhsilim Qərbi Kaspi Kolleci 3/3
