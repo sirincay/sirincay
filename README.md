@@ -18,7 +18,6 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufusta&theme=radical" /></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusta&theme=radical&layout=compact" /></td>
-    </tr>
+
     </tr>
 </table>
