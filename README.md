@@ -10,4 +10,4 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirincay&count_private=true&show_icons=true&theme=radical)](https://github.com/sirincay/github-readme-stats)
 
-
+"https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)"
