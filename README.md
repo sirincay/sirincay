@@ -8,8 +8,8 @@
   
 Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis xidməti oxuyuram
 
- <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusta&theme=radical&layout=compact" /></td>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sirincay/github-readme-stats)
+
 
 
 
