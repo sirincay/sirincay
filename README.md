@@ -12,10 +12,10 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
 
 <table align="center">
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=yusufusta&show_icons=true&theme=radical" /></td>
-    </tr>
+      
     <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufusta&theme=radical" /></td>
+              <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusta&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
 
