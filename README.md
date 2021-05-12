@@ -8,4 +8,4 @@
   
 Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis xidməti oxuyuram
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirincay&count_private=true&show_icons=true&theme=radical)](https://github.com/sirincay/github-readme-stats)
+[![Husnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirincay&count_private=true&show_icons=true&theme=radical)](https://github.com/sirincay/github-readme-stats)
