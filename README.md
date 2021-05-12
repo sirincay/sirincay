@@ -20,7 +20,5 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
     <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusta&theme=radical&layout=compact" /></td>
     </tr>
-    <tr>
-        <td align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)" /></td>
     </tr>
 </table>
