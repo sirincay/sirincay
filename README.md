@@ -9,4 +9,4 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
 
 
 
-[![AlenPaulVarghese github stats](https://github-readme-stats.vercel.app/api?username=alenpaul2001&count_private=true&show_icons=true&theme=radical)](https://github.com/alenpaul2001)
+[![Husnu Ehedovv](https://github-readme-stats.vercel.app/api?username=alenpaul2001&count_private=true&show_icons=true&theme=radical)](https://github.com/alenpaul2001)
