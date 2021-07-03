@@ -15,3 +15,4 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
   <a href="https://www.digitalocean.com/?refcode=ef061d441a1a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
   
  
+<a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>
