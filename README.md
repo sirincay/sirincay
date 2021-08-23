@@ -9,7 +9,7 @@
 Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis xidməti oxuyuram
 
 [![Husnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirincay&count_private=true&show_icons=true&theme=radical)](https://github.com/sirincay/github-readme-stats)
-<li> # İstifadə etdiklərim:
+<li> İstifadə etdiklərim:
 <p align="left"> </a> </a> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a>
   <a href="https://www.cplusplus.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="60" height="60"/> </a> 
     <a href="https://www.javascript.com" target="_blank">  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="python" width="60" height="60"/> </a>
