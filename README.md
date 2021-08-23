@@ -13,6 +13,6 @@ Hazırda Komputer şəbəkələrinin Hesablama Texnikasının təmiri və servis
 <p align="left"> </a> </a> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a>
   <a href="https://www.cplusplus.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="60" height="60"/> </a> 
     <a href="https://www.javascript.com" target="_blank">  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="python" width="60" height="60"/> </a>
-  <a href="https://www.digitalocean.com/?refcode=ef061d441a1a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt= "DigitalOcean Referral Badge" /></a>
+  <a href="https://www.digitalocean.com/?refcode=ef061d441a1a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt= "DigitalOcean Referral Badge" /></a> <a href="https://www.azure.com" target="_blank">  <img src="https://img.icons8.com/color/96/000000/azure--v1.png" alt="python" width="60" height="60"/> </a>
 
   
