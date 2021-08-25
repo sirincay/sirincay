@@ -1,7 +1,3 @@
-# Salam Mən Hüsnü👨🏻
-
-  
-
 <div align="center">
 <h3>Sosial Media Hesablarım</h3>
 <a href="https://t.me/husnuehedov" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>
