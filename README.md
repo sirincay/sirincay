@@ -28,3 +28,5 @@
    </a>
 </div>
 
+### Profil Baxış
+![Baxış Sayı](https://profile-counter.glitch.me/{sirincay}/count.svg) 
