@@ -22,20 +22,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://t.me/husnuehedov">
+<a href="https://t.me/HusnuTech">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/ehedov.v1p_">
+<a href="https://instagram.com/husnu.092">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/994506523005">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UC3ptTlBZufQiFzz1nzwYyhg">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sirincay">
