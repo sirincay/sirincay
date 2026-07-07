@@ -67,8 +67,8 @@
 
 ## 📫 Contact
 
-- Telegram: **@husnuehedov**
-- Instagram: **@ehedov.v1p_**
+- Telegram: **@HusnuTech**
+- Instagram: **@husnu.092**
 - GitHub: **github.com/sirincay**
 
 ---
