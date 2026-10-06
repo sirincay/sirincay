@@ -68,7 +68,7 @@
 ## 📫 Contact
 
 - Telegram: **@HusnuTech**
-- Instagram: **@husnu.092**
+- Instagram: **@husnu.tech**
 - GitHub: **github.com/sirincay**
 
 ---
