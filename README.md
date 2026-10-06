@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,nodejs,js,ts,mongodb,express,git,github,vscode,linux,azure&perline=6"/>
+<img src="[https://skillicons.dev/icons?i=cpp,nodejs,js,ts,mongodb,express,git,github,vscode,linux,azure&perline=6](https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,nestjs,prisma,mongodb,express,git,github,ubuntu,&perline=6)"/>
 
 </p>
 
